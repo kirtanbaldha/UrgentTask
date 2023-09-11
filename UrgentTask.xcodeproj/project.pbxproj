@@ -14,6 +14,7 @@
 		DAD0A2902AAF1C85002A9261 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAD0A28E2AAF1C85002A9261 /* Main.storyboard */; };
 		DAD0A2922AAF1C86002A9261 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAD0A2912AAF1C86002A9261 /* Assets.xcassets */; };
 		DAD0A2952AAF1C86002A9261 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAD0A2932AAF1C86002A9261 /* LaunchScreen.storyboard */; };
+		DAD0A29D2AAF254F002A9261 /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD0A29C2AAF254F002A9261 /* HomePage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		DAD0A2912AAF1C86002A9261 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DAD0A2942AAF1C86002A9261 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DAD0A2962AAF1C86002A9261 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DAD0A29C2AAF254F002A9261 /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +64,7 @@
 				DAD0A28A2AAF1C85002A9261 /* SceneDelegate.swift */,
 				DAD0A28C2AAF1C85002A9261 /* ViewController.swift */,
 				DAD0A28E2AAF1C85002A9261 /* Main.storyboard */,
-				C216C9092AAF1F0E005E96B8 /* LoginPage.swift */,
+				DAD0A29C2AAF254F002A9261 /* HomePage.swift */,
 				DAD0A2912AAF1C86002A9261 /* Assets.xcassets */,
 				DAD0A2932AAF1C86002A9261 /* LaunchScreen.storyboard */,
 				DAD0A2962AAF1C86002A9261 /* Info.plist */,
@@ -145,6 +147,7 @@
 				DAD0A28D2AAF1C85002A9261 /* ViewController.swift in Sources */,
 				DAD0A2892AAF1C85002A9261 /* AppDelegate.swift in Sources */,
 				DAD0A28B2AAF1C85002A9261 /* SceneDelegate.swift in Sources */,
+				DAD0A29D2AAF254F002A9261 /* HomePage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
